@@ -25,10 +25,10 @@ Esta aplicación permite realizar **ingeniería reversa de recetas** a partir de
 - 🤖 **Análisis automático con IA** usando Google AI Studio (modelo Gemini)
 - 📖 **Generación de recetas detalladas** (ingredientes + preparación)
 - 🔄 **Alternativas personalizadas** , por ejemplo:
-- Opciones vegetarianas o veganas
-- Versiones sin gluten
-- Ajustes para dietas bajas en calorías
-- Variaciones según ingredientes disponibles
+     - Opciones vegetarianas o veganas
+     - Versiones sin gluten
+     - Ajustes para dietas bajas en calorías
+     - Variaciones según ingredientes disponibles
 
 ---
 
