@@ -1,0 +1,5 @@
+{
+  "name": "Recipe Reverse Engineer",
+  "description": "Upload a food photo and let our AI Chef reverse engineer the recipe, nutrition, and cost analysis for you.",
+  "requestFramePermissions": []
+}
