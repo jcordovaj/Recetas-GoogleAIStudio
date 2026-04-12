@@ -78,9 +78,9 @@ Este proyecto forma parte de un laboratorio práctico enfocado en:
 
 ## 🚀 Desplegar y ejecutar en AI Studio
 
-Iniciar sesión, conectar con repo de github, hacer build y ejecutar.
+Iniciar sesión, conectar con repo de github, modificar la api_key, hacer build y ejecutar en la url que se genera.
 
-View the app in AI Studio: Not available, just local
+Para ver esta app en AI Studio: Se ha deshabilitado temporalmente, sólo para despliegue local
 
 ---
 
